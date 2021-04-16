@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/citizen_accra/static/css/main.747165ff.chunk.css",
+    "main.js": "/citizen_accra/static/js/main.3ff3edc6.chunk.js",
+    "main.js.map": "/citizen_accra/static/js/main.3ff3edc6.chunk.js.map",
+    "runtime-main.js": "/citizen_accra/static/js/runtime-main.51918443.js",
+    "runtime-main.js.map": "/citizen_accra/static/js/runtime-main.51918443.js.map",
+    "static/css/2.27175f2b.chunk.css": "/citizen_accra/static/css/2.27175f2b.chunk.css",
+    "static/js/2.07038320.chunk.js": "/citizen_accra/static/js/2.07038320.chunk.js",
+    "static/js/2.07038320.chunk.js.map": "/citizen_accra/static/js/2.07038320.chunk.js.map",
+    "static/js/3.852c6814.chunk.js": "/citizen_accra/static/js/3.852c6814.chunk.js",
+    "static/js/3.852c6814.chunk.js.map": "/citizen_accra/static/js/3.852c6814.chunk.js.map",
+    "index.html": "/citizen_accra/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/citizen_accra/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.747165ff.chunk.css.map": "/citizen_accra/static/css/main.747165ff.chunk.css.map",
+    "static/js/2.07038320.chunk.js.LICENSE.txt": "/citizen_accra/static/js/2.07038320.chunk.js.LICENSE.txt",
+    "static/media/springLogo.d9f84097.png": "/citizen_accra/static/media/springLogo.d9f84097.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51918443.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.07038320.chunk.js",
+    "static/css/main.747165ff.chunk.css",
+    "static/js/main.3ff3edc6.chunk.js"
+  ]
+}
