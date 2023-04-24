@@ -8,7 +8,7 @@ if (urlpath.substring(0,16) === 'http://localhost'){
 
 }else{ 
   
-    HOLD_API_LINK = 'https://guarded-taiga-77263.herokuapp.com';
+    HOLD_API_LINK = 'https://citizen-accra-backend-2.onrender.com';
 }
 
 export const API_LINK = HOLD_API_LINK;
