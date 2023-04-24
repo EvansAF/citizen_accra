@@ -1,3 +1,0 @@
-https://citizen-accra-backend-2.onrender.com
-
-citizen_accra_backend is the backend for this 
